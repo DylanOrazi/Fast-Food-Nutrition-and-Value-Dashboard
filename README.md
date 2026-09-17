@@ -14,7 +14,7 @@ Main Files:
 - fast_food_nutrition_dataset.csv
 - Fast_Food_Nutrition_Value_Dashboard.twbx
 - Project Findings.txt
-- README.txt
+- README.md
 
 Dataset Overview:
 The dataset contains 200 fictional fast-food meal records.
